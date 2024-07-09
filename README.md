@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Subham
+- 👋 Hi, I’m Subham  pal(s)
 - 👀 I’m interested in learning any thing
 - 🌱 I’m currently learning c language 
 - 💞️ I’m looking to collaborate on ...
